@@ -1,6 +1,6 @@
 # Sistema_de_Administracion_de_Papeleria
 
-Sistema hecho para la administración de una papelería. Programado en Visual Studio (Visual Basic), cuenta con una base de datos creada en Access. 
+Sistema hecho para la administración de una papelería. Programado en Visual Studio y cuenta con una base de datos creada en Access. 
 
 En este sistema interactúan dos tipos de usuario: Administrador y empleado. El administrador puede iniciar sesión, registrar compras hechas de nueva mercancía para la papelería, registrar los datos de nuevos proveedores y visualizar todas las ventas hechas hasta el momento por los empleados.
 
