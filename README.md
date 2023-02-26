@@ -1,4 +1,4 @@
-# Sistema_de_Administracion_de_Papeleria
+# Sistema_de_Administración_Papelero
 
 Sistema hecho para la administración de una papelería. Programado en Visual Studio (Visual Basic) y cuenta con una base de datos creada en Access. 
 
